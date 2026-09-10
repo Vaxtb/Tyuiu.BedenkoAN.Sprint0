@@ -1,3 +1,8 @@
 <Solution>
-  <Folder Name="/Task0/" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.BedenkoAN.Sprint0.Task0.V0/Tyuiu.BedenkoAN.Sprint0.Task0.V0.csproj" Id="aaf7b162-809a-4aed-8998-726092118089" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.BedenkoAN.Sprint0.Task1.V0/Tyuiu.BedenkoAN.Sprint0.Task1.V0.csproj" />
+  </Folder>
 </Solution>
